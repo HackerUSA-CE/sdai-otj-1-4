@@ -1,1 +1,2 @@
-# sdai-otj-1-4
+# AI Software Development Introductory Course
+## On the Job Guidance
